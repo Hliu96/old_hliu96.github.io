@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Nanjing University, 2014 ~ 2018
+* B.S. in Computer Science, Kuang Yaming Honors School, Nanjing University, 2014 ~ 2018
 
 
 Research Experience

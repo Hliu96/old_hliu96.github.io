@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
- Hi, I am Hao Liu, an junior year undergraduate student from [Nanjing University](https://www.nju.edu.cn/EN/), majoring in Computer Science. I'm interested in machine learning and deep learning.
+ * Welcome, I am currently a senior year undergraduate student from  [Kuang Yaming Honors School](https://dii.nju.edu.cn/kym_en/), [Nanjing University](https://www.nju.edu.cn/EN/), majoring in Computer Science.

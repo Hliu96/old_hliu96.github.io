@@ -16,15 +16,16 @@ Education
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2015 to present: Research Assistant
+  * [LAMDA group](http://lamda.nju.edu.cn/MainPage.ashx)
+  * Nanjing University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: [Professor Yufeng Li](http://lamda.nju.edu.cn/liyf/)
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2016 to present: Full time Research Assistant
+  * Duke University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [Professor Lawrence Carin](http://people.ee.duke.edu/~lcarin/)
 
 Skills
 ======
